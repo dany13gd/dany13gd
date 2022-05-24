@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **4-geeks internship**
 
+- 🔭 I’m currently working on **touracancun, touraislande page in WP**
+
 - 🌱 I’m currently learning **javascript, angular courses in udemy.**
 
-- 📫 How to reach me **daniel.guerrero13@outlook.com**
+- 📫 How to reach me **daniel.guerrero13@outlook.com, dany13gd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
