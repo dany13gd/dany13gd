@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Guerrero</h1>
 <h3 align="center">A passionate full stack junior developer from Costa Rica</h3>
 
-- 🔭 I’m currently working on **4-geeks internship**
 
 - 🔭 I’m currently working on **touracancun, touraislande page in WP**
 
