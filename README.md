@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Guerrero</h1>
 <h3 align="center">A passionate full stack junior developer from Costa Rica</h3>
 
-
-- 🔭 I’m currently working on **touracancun, touraislande page in WP**
+- 🌱 I’m currently create on **touracroatie, touraespagne angular websites**
 
 - 🔭 I’m currently working on **touracancun, touraislande create migration to angular websites**
+
+- 🔭 I’m currently working on **touracancun, touraislande page in WP**
 
 - 🌱 I’m currently learning **javascript, angular courses in udemy.**
 
