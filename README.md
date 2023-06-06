@@ -3,6 +3,8 @@
 
 
 - 🔭 I’m currently working on **touracancun, touraislande page in WP**
+- 
+- 🔭 I’m currently working on **touracancun, touraislande create migration to angular websites**
 
 - 🌱 I’m currently learning **javascript, angular courses in udemy.**
 
